@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tic Tac Teo</string>
+    <string name="heading">Welcome to Tic Tac Teo</string>
+    <string name="grid">grid</string>
+    <string name="turn_message">X\'s Turn - Tap to play</string>
+    <string name="Image0">todo0</string>
+    <string name="Image1">todo1</string>
+    <string name="Image2">todo2</string>
+    <string name="Image3">todo3</string>
+    <string name="Image4">todo4</string>
+    <string name="Image5">todo5</string>
+    <string name="Image6">todo6</string>
+    <string name="Image7">todo7</string>
+    <string name="Image8">todo8</string>
+    <string name="reset_key">RESET</string>
+
+</resources>
